@@ -1,0 +1,11 @@
+{
+    "repo_name":"MiniAudioO3DE",
+    "origin":"GitHub",
+    "repo_uri": "https://github.com/gralco/MiniAudioO3DE.git",
+    "summary": "MiniAudio Gem",
+    "additional_info": "Additional information about your repository including HTML links to any relative website, documentation or licenses.",
+    "last_updated": "10/26/2022 04:56pm",
+    "gems": [
+        "https://raw.githubusercontent.com/gralco/MiniAudioO3DE/main"
+    ]
+}
